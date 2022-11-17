@@ -1,9 +1,9 @@
 [submodule "Data Analysis/mean-variance-standard-deviation-calculator"]
 	path = Data Analysis/mean-variance-standard-deviation-calculator
-	url = https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator
+	url = https://github.com/aaditkamat/mean-variance-standard-deviation-calculator
 [submodule "Data Analysis/medical-data-visualizer"]
 	path = Data Analysis/medical-data-visualizer
-	url = https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer
+	url = https://github.com/aaditkamat/-medical-data-visualizer
 [submodule "Data Analysis/demographic-data-analyzer"]
 	path = Data Analysis/demographic-data-analyzer
-	url = https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer
+	url = https://github.com/aaditkamat/demographic-data-analyzer
