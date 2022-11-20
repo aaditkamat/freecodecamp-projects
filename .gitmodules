@@ -10,3 +10,6 @@
 [submodule "Data Analysis/sea-level-predictor"]
 	path = Data Analysis/sea-level-predictor
 	url = https://github.com/aaditkamat/sea-level-predictor
+[submodule "Data Analysis/page-time-view-series-visualizer"]
+	path = Data Analysis/page-time-view-series-visualizer
+	url = https://github.com/aaditkamat/page-view-time-series-visualizer.git
