@@ -7,3 +7,6 @@
 [submodule "Data Analysis/demographic-data-analyzer"]
 	path = Data Analysis/demographic-data-analyzer
 	url = https://github.com/aaditkamat/demographic-data-analyzer
+[submodule "Data Analysis/sea-level-predictor"]
+	path = Data Analysis/sea-level-predictor
+	url = https://github.com/aaditkamat/sea-level-predictor
